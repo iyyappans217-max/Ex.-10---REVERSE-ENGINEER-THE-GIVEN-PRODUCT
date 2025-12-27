@@ -1,6 +1,6 @@
 # Ex.10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 03.12.25
+### DATE: 23.12.25
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -35,8 +35,10 @@
 ### Output:
 ![alt text](EX10(a).png)
 ![alt text](EX10(b).png)
-### Name: ABHISHEK S
-### Register Number: 25008757
+
+
+### Name:   IYYAPPAN S
+### Register Number: 25014014
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
